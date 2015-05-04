@@ -1,0 +1,7 @@
+package linksharing
+
+class Subscription {
+Date dateCreated
+    static constraints = {
+    }
+}
